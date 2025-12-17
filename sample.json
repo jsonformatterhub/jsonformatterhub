@@ -1,0 +1,37 @@
+{
+  "Employees": [
+    {
+      "userId": "jdoe",
+      "jobTitleName": "Senior Developer",
+      "firstName": "John",
+      "lastName": "Doe",
+      "preferredFullName": "John Doe",
+      "employeeCode": "E101",
+      "region": "NY",
+      "phoneNumber": "212-555-0187",
+      "emailAddress": "john.doe@example.com"
+    },
+    {
+      "userId": "asmith",
+      "jobTitleName": "Product Manager",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "preferredFullName": "Alice Smith",
+      "employeeCode": "E102",
+      "region": "WA",
+      "phoneNumber": "206-555-0923",
+      "emailAddress": "alice.smith@example.com"
+    },
+    {
+      "userId": "bwayne",
+      "jobTitleName": "CEO",
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "preferredFullName": "Bruce Wayne",
+      "employeeCode": "E001",
+      "region": "NJ",
+      "phoneNumber": "973-555-7777",
+      "emailAddress": "bruce.wayne@wayneenterprises.com"
+    }
+  ]
+}
